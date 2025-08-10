@@ -1,3 +1,4 @@
 # Ignore image assets
 *.jpg
 *.png
+*.svg

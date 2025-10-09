@@ -1,0 +1,56 @@
+html {
+  background-color: white;
+}
+
+h1 {
+  font-size: 2.0rem;
+  color: darkslategray;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  border-bottom-color: purple;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.job-title {
+  font-weight: bold;
+  color: darkslategray;
+}
+
+body {
+  font: 1.2em / 1.5 system-ui;
+  padding: 20px 20px 20px 20px;
+  width: 500px;
+  background: #efefef;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  background-color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 20px;
+  padding: 30px 30px 30px 30px;
+}
+
+
+a {
+  color: green;
+}
+
+a:hover{
+  color: darkgreen;
+  font-style: normal;
+}
+
+a:focus{
+  color: darkgreen;
+  font-style: normal;
+}

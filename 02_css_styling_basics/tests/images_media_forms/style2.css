@@ -1,0 +1,25 @@
+body {
+  font: 1.2em / 1.5 sans-serif;
+}
+.my-form {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0;
+}
+
+input[type="submit"] {
+    color: white;
+    background-color: rebeccapurple;
+    border: none;
+    border-radius: 5px;
+}
